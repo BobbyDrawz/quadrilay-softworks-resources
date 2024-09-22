@@ -18,6 +18,7 @@ Welcome to the **Quadrilay Softworks** FL Studio demo repository! This repositor
 
 - **FL Studio 21** or higher is required to open the project files.
 - Some projects may require specific **plugins** for full functionality.
+- This uses [**SugarFilters**](https://drive.google.com/drive/folders/1upIAFquzqfAgF6PiOntG58m5n2WeDXbp) for some visual effects
 
 ## Contributing 🤝
 
